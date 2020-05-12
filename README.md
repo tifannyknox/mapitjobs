@@ -1,7 +1,7 @@
 # mapitjobs
 Flowchart of some IT careers that helps you choose a path.
 
-<img src="https://raw.githubusercontent.com/tifannyknox/mapitjobs/master/map_it_jobs.jpg">
+https://github.com/tifannyknox/mapitjobs/blob/master/map_it_jobs.vpd.pdf
 
 
 Research based on IT career sites:<br>
